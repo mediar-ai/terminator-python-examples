@@ -1,1 +1,5 @@
-terminator-py 
+terminator-py
+ollama
+langchain
+langchain-ollama
+Pillow 
